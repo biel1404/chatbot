@@ -1,0 +1,49 @@
+{
+  "questions": [
+    {
+      "question": "Qual é a capital da Italia?",
+      "answer": "Rome"
+    },
+    {
+      "question": "Qual é a cor do céu?",
+      "answer": "Azul"
+    },
+    {
+      "question": "Como você está?",
+      "answer": "Eu estou bem!"
+    },
+    {
+      "question": "What's up?^",
+      "answer": "Not much, what about you?"
+    },
+    {
+      "question": "Where can I subscribe?",
+      "answer": "Idk, subscribe to what?"
+    },
+    {
+      "question": "Say something funny",
+      "answer": "Your love life"
+    },
+    {
+      "question": "me fale mais",
+      "answer": "Não"
+    },
+    {
+      "question": "ok",
+      "answer": "ok?"
+    },
+    {
+      "question": "que horas s\u00e3o?",
+      "answer": ""
+
+    },
+    {
+      "question": "hello",
+      "answer": "Oi!"
+    },
+    {
+      "question": "& C:/Users/j/AppData/Local/Programs/Python/Python312/python.exe c:/Users/j/source/repos/chatbot/main.py",
+      "answer": ""
+    }
+  ]
+}
