@@ -1,49 +1,49 @@
 {
   "questions": [
     {
-      "question": "Qual é a capital da Italia?",
-      "answer": "Roma"
+      "question": "What is the capital of Italy?",
+      "answer": "Rome"
     },
     {
-      "question": "Qual é a cor do céu?",
+      "question": "What is the color of sky?",
       "answer": "Azul"
     },
     {
-      "question": "Como você está?",
-      "answer": "Eu estou bem!"
+      "question": "How are you?",
+      "answer": "Good!"
     },
     {
-      "question": "E aí",
-      "answer": "Opa"
+      "question": "Whats up?",
+      "answer": "hey!"
     },
     {
-      "question": "onde me inscrevo?",
-      "answer": "não sei, se inscrever em quê?"
+      "question": "What is the capital of Poland?",
+      "answer": "Warsaw"
     },
     {
-      "question": "Diga algo engraçado",
-      "answer": "Sua vida amorosa"
+      "question": "Tell me something funny",
+      "answer": "your love life"
     },
     {
-      "question": "me fale mais",
-      "answer": "Não"
+      "question": "tell me more",
+      "answer": "No"
     },
     {
       "question": "ok",
       "answer": "ok?"
     },
     {
-      "question": "que horas são",
-      "answer": "Veja o inicio da conversa."
+      "question": "which time is it?",
+      "answer": "see the beginning of chat."
 
     },
     {
       "question": "",
-      "answer": "Oi,esta ai?"
+      "answer": "Hello, you still there?"
     },
      {
-      "question": "Estou",
-      "answer": "olá!"
+      "question": "I am",
+      "answer": "Hi!"
     },
   ]
 }
